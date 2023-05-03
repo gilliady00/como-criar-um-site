@@ -1,9 +1,8 @@
-.header{
+.cabeçalho{
    background-color: #FF9e9e;
    padding: 0px;
    margin: 0px;
    height: 250px;
-   ba
    display: flex;
    align-items: center;
 }
