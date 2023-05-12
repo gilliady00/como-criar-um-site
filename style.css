@@ -6,6 +6,11 @@
    display: flex;
    align-items: center;
    justify-content: center;
+}
+
+.dev-imagem-p1{
+   align-items: center;
+   display: flex;
    text-align: center;
    font-size: 25px;
    justify-content: space-around;
