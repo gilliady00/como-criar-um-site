@@ -17,6 +17,11 @@
    justify-content: space-around;
 }
 
+.div-imagens-p2{
+   display: flex;
+   justify-content: center;
+}
+
 .título-corpo{
    display: flex;
    justify-content: center;
